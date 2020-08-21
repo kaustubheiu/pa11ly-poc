@@ -46,7 +46,9 @@ The last step before being able to run the application is to define a configurat
 Each configuration can be set with an environment variable rather than a config file. For example to run the application on port `8080` you can use the following:
 
 ```sh
-PORT=8080 node index.js
+PORT=8080 node index.js 
+For Windows - 
+echo set PORT=8953 && node index.js
 ```
 
 The [available configurations are documented here](#configurations).
