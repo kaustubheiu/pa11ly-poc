@@ -53,6 +53,9 @@ Done a POC for Pa11ly Dashboard, below are some key Findings :
 - With the Use of Actions in Pa11ly, we can simulate multiple behaviors across the test page. For instance : Filling up login Information and submitting form in order to navigate to Post-Auth Pages.
 - Can be used to test web application running on Local Web Server.
 
+### Local App Test
+![image info](./readmeImages/local.png)
+
 ### What we couldn't figure out:
 - How to simulate our testing workflow in the application for authenticated pages after login action through Pa11ly. 
 Similar Issue has been opened on Pa11ly Official Github Repo : https://github.com/pa11y/pa11y/issues/456
