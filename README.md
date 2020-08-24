@@ -56,9 +56,18 @@ Done a POC for Pa11ly Dashboard, below are some key Findings :
 ### Local App Test
 ![image info](./readmeImages/local.png)
 
+### Secure Page Task, Action
+![image info](./readmeImages/securepage.png)
+
+
 ### What we couldn't figure out:
 - How to simulate our testing workflow in the application for authenticated pages after login action through Pa11ly. 
 Similar Issue has been opened on Pa11ly Official Github Repo : https://github.com/pa11y/pa11y/issues/456
+
+### EIU Viewswire Task, Login
+![image info](./readmeImages/viewswire.png)
+
+
 
 ### What solution we gave a thought (A High Level Implementation):
 - Breaking the above use case into atomic pieces namely - opening and accessing pages into Headless Browser with the help of puppeteer or similar tool.
