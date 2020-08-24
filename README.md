@@ -74,3 +74,6 @@ Similar Issue has been opened on Pa11ly Official Github Repo : https://github.co
 - Access and fetch the compiled HTML for the specified Page using tool like HTML Sniffer.
 - And, Conclusively running accessibility test on to the Resultant HTML.
 - All of the above workflow is to be wired with the help of some Automation Testing Framework.
+
+### EIU Viewswire Task, Login
+![image info](./readmeImages/HLD.png)
